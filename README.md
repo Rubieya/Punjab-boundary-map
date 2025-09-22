@@ -12,9 +12,5 @@ The map shows the boundary of Punjab, Pakistan.
 - ArcGIS Pro
 - Shapefile data from [GADM](https://gadm.org)
 
-## Output
-![Punjab Boundary Map](MY FIRST MAP-1.png)
-
----
 
 ✨ This is my **warm-up project**. Next, I will add districts and population data for advanced analysis.
