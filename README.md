@@ -12,8 +12,7 @@ The map shows the boundary of Punjab, Pakistan.
 - ArcGIS Pro
 - Shapefile data from [GADM](https://gadm.org)
 
-## Output
-![Punjab Boundary Map](output/punjab_map.png)
+
 
 ---
 
